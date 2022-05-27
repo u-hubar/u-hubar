@@ -1,3 +1,7 @@
+<p align="center"><img width="80%" src="./images/profile-header.png" /></p>
+
+<br/>
+
 **About me**
 - 💼 Data Engineer at Samsung R&D
 - 🌐 Blockchain maximalist
