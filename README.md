@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" src="./images/profile-header.png" /></p>
+## Hey, I'm Vlad :godmode:
 
 <br/>
 
