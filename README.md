@@ -3,7 +3,7 @@
 <br/>
 
 **About me**
-- 💼 Data Engineer at Samsung R&D
+- 💼 Protocols Engineer at [OriginTrail](https://github.com/OriginTrail)
 - 🌐 Blockchain maximalist
 - 📚 Currently focusing on learning Rust :gear:
 
